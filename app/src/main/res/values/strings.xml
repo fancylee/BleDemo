@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">BleDemo</string>
     <string name="blenotsupport">The device does not support Bluetooth</string>
+    <string name="unknowdevice">UnKnow Device</string>
+    <string name="connectedDevice">Connected Device:</string>
+    <string name="send">Send</string>
+    <string name="connected">Have been connected</string>
+    <string name="disconnected">Have been disconnected</string>
 </resources>
